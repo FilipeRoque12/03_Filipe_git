@@ -1,0 +1,23 @@
+body{
+	background: url(../imagens/narutoEsasuke.jpg) center center fixed;
+}
+
+.formulario{
+	color: white;
+	margin-left: 100px;
+	margin-top: 50px;
+	width: 60%;
+	left: 50px;
+	padding: 5px;
+	background: url(../imagens/1350915383.jpg) center center fixed;
+}
+.cabecalho{
+	background-color: red;
+	color: black;
+}
+
+form{
+	margin-left: 100px;
+	width: 50%;
+	color: rgb(83,216,233);
+}

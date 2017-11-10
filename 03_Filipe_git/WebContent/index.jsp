@@ -36,7 +36,7 @@
 					</p>
 				</header>
 				<p>
-					<center>Conheca a empresa Senior Solution<br/> <a href="http://www.seniorsolution.com.br/seniorsolution/web/default_pti.asp?idioma=0&conta=45&v=1">click aqui</a> para mais informacoes...</center>
+					<center>Conhça nossa aldeia<br/> <a href="http://www.seniorsolution.com.br/seniorsolution/web/default_pti.asp?idioma=0&conta=45&v=1">click aqui</a> para mais informacoes...</center>
 				</p>
 			</article>
 		</section>
