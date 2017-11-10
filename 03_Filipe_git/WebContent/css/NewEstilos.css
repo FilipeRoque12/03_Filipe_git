@@ -1,0 +1,59 @@
+* {
+	font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+body{
+	background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,0,1));
+	/*background-color: transparent; */
+	color: black;
+}
+/* .container { */
+/* 	margin: 80px 4px 40px 40px; */
+/* 	text-align: justify; */
+/* } */
+
+/* estilos para o rodapé */
+/*
+footer {
+	left:0;
+	right:0;
+	bottom: 0;
+	position: fixed;
+	padding: 5px;
+	text-align: center;
+	font-size: 10px;
+	color: white;
+	background-color: #828282;
+}
+*/
+.intro {
+	background: url(../imagens/narutoEsasuke.jpg) center center fixed;
+	background-size:contain;
+	padding: 220px 0;
+	margin-top: 40px;
+	left:0;
+	right:0;
+}
+
+.footerok {
+	background: url(../imagens/superonze.jpg) center center fixed;
+	background-size: cover;
+	color: red;
+	padding: 55px;
+	text-align: center;
+}
+.filipe {
+	background: url(../imagens/Filipe.JPG) center center fixed;
+	background-size:contain;
+	padding: 220px 0;
+	margin-top: 40px;
+	left:0;
+	right:0;
+}
+
+.footerr {
+/* 	background: url(../imagens/rodape.PNG) center center fixed; */
+	background-size: cover;
+	color: red;
+	padding: 55px;
+	text-align: center;
+}}
